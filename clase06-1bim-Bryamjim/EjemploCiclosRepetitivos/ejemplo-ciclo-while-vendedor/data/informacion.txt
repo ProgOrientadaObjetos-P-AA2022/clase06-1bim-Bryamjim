@@ -1,0 +1,7 @@
+Datos de Vendedor
+Nombre: bryam
+Edad: 45
+Salario mínimo: 150,00
+Número de autos: 12
+Pago mensual: 1950,00
+
